@@ -1,71 +1,71 @@
-# Diamonds-and-Titanic
- Exploratory Data Analysis Project
- Project Overview
 
-This project presents a complete Exploratory Data Analysis (EDA) process using Python.
-The objective is to understand the dataset, clean it, analyze relationships between variables, and visualize patterns to extract meaningful insights.
+# Exploratory Data Analysis Project
+ ##Project Overview
 
- Project Objectives
+####This project presents a complete Exploratory Data Analysis (EDA) process using Python.
+####The objective is to understand the dataset, clean it, analyze relationships between variables, and visualize patterns to extract meaningful insights.
 
-Inspect dataset structure and data types
+## Project Objectives
 
-Identify and handle missing values
+####Inspect dataset structure and data types
 
-Generate statistical summaries
+####Identify and handle missing values
 
-Analyze correlations between features
+####Generate statistical summaries
 
-Create visualizations to better understand the data
+####Analyze correlations between features
 
- Technologies & Libraries Used
+####Create visualizations to better understand the data
 
-Python
+ ##Technologies & Libraries Used
 
-Pandas – Data manipulation and analysis
+####Python
 
-NumPy – Numerical operations
+####Pandas – Data manipulation and analysis
 
-Matplotlib – Data visualization
+####NumPy – Numerical operations
 
-Seaborn – Advanced statistical visualizations
+####Matplotlib – Data visualization
 
-Jupyter Notebook
+####Seaborn – Advanced statistical visualizations
 
- Project Workflow
-1️ Data Inspection
+####Jupyter Notebook
 
-Used info() to examine data types and structure
+## Project Workflow
+####1️ Data Inspection
 
-Used describe() to generate statistical summaries
+#####Used info() to examine data types and structure
 
-2️ Data Cleaning
+#####Used describe() to generate statistical summaries
 
-Checked for missing values using isnull()
+####2️ Data Cleaning
 
-Removed or handled missing data where necessary
+#####Checked for missing values using isnull()
 
-3️ Correlation Analysis
+#####Removed or handled missing data where necessary
 
-Generated a correlation matrix using corr()
+####3️ Correlation Analysis
 
-Visualized relationships using a heatmap
+#####Generated a correlation matrix using corr()
 
-4️ Data Visualization
+#####Visualized relationships using a heatmap
 
-Created plots to explore:
+####4️ Data Visualization
 
-Data distribution
+#####Created plots to explore:
 
-Relationships between variables
+#####Data distribution
 
-Key patterns and trends
+#####Relationships between variables
 
- Results
+#####Key patterns and trends
 
-Cleaned and structured dataset
+ ###Results
 
-Clear statistical understanding of features
+#####Cleaned and structured dataset
 
-Visual insights into relationships between variables
+#####Clear statistical understanding of features
 
-Improved interpretability of the dataset
+#####Visual insights into relationships between variables
+
+#####Improved interpretability of the dataset
