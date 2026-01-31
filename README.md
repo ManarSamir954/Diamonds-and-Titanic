@@ -1,71 +1,71 @@
 
 # Exploratory Data Analysis Project
- ##Project Overview
+ ## Project Overview
 
-####This project presents a complete Exploratory Data Analysis (EDA) process using Python.
-####The objective is to understand the dataset, clean it, analyze relationships between variables, and visualize patterns to extract meaningful insights.
+#### This project presents a complete Exploratory Data Analysis (EDA) process using Python.
+#### The objective is to understand the dataset, clean it, analyze relationships between variables, and visualize patterns to extract meaningful insights.
 
 ## Project Objectives
 
-####Inspect dataset structure and data types
+#### Inspect dataset structure and data types
 
-####Identify and handle missing values
+#### Identify and handle missing values
 
-####Generate statistical summaries
+#### Generate statistical summaries
 
-####Analyze correlations between features
+#### Analyze correlations between features
 
-####Create visualizations to better understand the data
+#### Create visualizations to better understand the data
 
- ##Technologies & Libraries Used
+ ## Technologies & Libraries Used
 
-####Python
+#### Python
 
-####Pandas – Data manipulation and analysis
+#### Pandas – Data manipulation and analysis
 
-####NumPy – Numerical operations
+#### NumPy – Numerical operations
 
-####Matplotlib – Data visualization
+#### Matplotlib – Data visualization
 
-####Seaborn – Advanced statistical visualizations
+#### Seaborn – Advanced statistical visualizations
 
-####Jupyter Notebook
+#### Jupyter Notebook
 
 ## Project Workflow
-####1️ Data Inspection
+#### 1️ Data Inspection
 
-#####Used info() to examine data types and structure
+##### Used info() to examine data types and structure
 
-#####Used describe() to generate statistical summaries
+##### Used describe() to generate statistical summaries
 
-####2️ Data Cleaning
+#### 2️ Data Cleaning
 
-#####Checked for missing values using isnull()
+##### Checked for missing values using isnull()
 
-#####Removed or handled missing data where necessary
+##### Removed or handled missing data where necessary
 
-####3️ Correlation Analysis
+#### 3️ Correlation Analysis
 
-#####Generated a correlation matrix using corr()
+##### Generated a correlation matrix using corr()
 
-#####Visualized relationships using a heatmap
+##### Visualized relationships using a heatmap
 
-####4️ Data Visualization
+#### 4️ Data Visualization
 
-#####Created plots to explore:
+##### Created plots to explore:
 
-#####Data distribution
+##### Data distribution
 
-#####Relationships between variables
+##### Relationships between variables
 
-#####Key patterns and trends
+##### Key patterns and trends
 
- ###Results
+ ### Results
 
-#####Cleaned and structured dataset
+##### Cleaned and structured dataset
 
-#####Clear statistical understanding of features
+##### Clear statistical understanding of features
 
-#####Visual insights into relationships between variables
+##### Visual insights into relationships between variables
 
-#####Improved interpretability of the dataset
+##### Improved interpretability of the dataset
